@@ -3,7 +3,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Hello Mui </h1>
+  
+      <h1 className="text-5xl font-bold text-primary">Hello world!</h1>
     </>
   );
 }
